@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'teste';
+  title = 'JOSÉ LEANDRO FERNANDES DE MEDEIROS BRASILEIRO';
 }
